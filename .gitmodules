@@ -1,0 +1,6 @@
+[submodule "pharmageddon"]
+	path = pharmageddon
+	url = git@github.com:gasman/pharmageddon.git
+[submodule "CroixPharmacie"]
+	path = CroixPharmacie
+	url = git@github.com:MathisHammel/CroixPharmacie.git
