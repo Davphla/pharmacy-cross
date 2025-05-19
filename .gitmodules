@@ -4,3 +4,6 @@
 [submodule "CroixPharmacie"]
 	path = CroixPharmacie
 	url = git@github.com:MathisHammel/CroixPharmacie.git
+[submodule "rpi-rgb-led-matrix"]
+	path = rpi-rgb-led-matrix
+	url = git@github.com:hzeller/rpi-rgb-led-matrix.git
